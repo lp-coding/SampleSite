@@ -1,0 +1,13 @@
+# Editor/OS
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+log/
+
+# Node (falls du Node nutzt)
+node_modules/
+.env
